@@ -22,10 +22,12 @@ bin/
 /nbdist/
 /.nb-gradle/
 /.idea/
-/*.iml/
+*.iml
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
+*.json
